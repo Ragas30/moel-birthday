@@ -136,7 +136,7 @@ Sekali lagi, selamat ulang tahun! Semoga tahun ini jadi salah satu bab paling in
 
             {/* Additional sweet message - Styling lebih lembut */}
             <div className="bg-pink-100/70 rounded-xl p-5 border border-pink-200/80 shadow-inner">
-              <p className="text-gray-700 font-semibold italic text-lg text-balance">{"Sorry ya mba e kadonya nyusul sekarang cuman bisa bikin ginian :((("}</p>
+              <p className="text-gray-700 font-semibold italic text-lg text-balance">{"Maaf Ya sayang kalau kado non fisik nya jelek :("}</p>
             </div>
 
             {/* Back button */}
