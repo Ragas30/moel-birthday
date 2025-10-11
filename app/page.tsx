@@ -14,7 +14,7 @@ export default function HomePage() {
   const today = new Date();
   const birthdayDate = new Date(today.getFullYear(), today.getMonth(), today.getDate()).toISOString().split("T")[0];
 
-  const targetDate = "2025-10-12T00:00:00+07:00";
+  const targetDate = "2025-10-11T00:19:30+07:00";
 
   const handleCountdownComplete = () => {
     setShowConfetti(true);
